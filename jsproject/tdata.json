@@ -1,0 +1,70 @@
+[
+    {
+        "tec_id": "teacher1",
+        "tec_pwd": "teacher1pwd",
+        "tec_name": "Somchai Cheingpongpa",
+        "tec_course": [
+            {
+                "id": "630240111",
+                "sec": 1
+            },
+            {
+                "id": "630240111",
+                "sec": 2
+            }
+        ]
+    },
+    {
+        "tec_id": "teacher2",
+        "tec_pwd": "teacher2pwd",
+        "tec_name": "Yupin Sukpukhun",
+        "tec_couser": [
+            {
+                "id": "630240112",
+                "sec": 1
+            },
+            {
+                "id": "630240112",
+                "sec": 3
+            }
+        ]
+    },
+    {
+        "tec_id": "teacher3",
+        "tec_pwd": "teacher3pwd",
+        "tec_name": "Anirach Mingkhwan",
+        "tec_couser": [
+            {
+                "id": "630240113",
+                "sec": 1
+            }
+        ]
+    }
+    ,
+    {
+        "tec_id": "teacher4",
+        "tec_pwd": "teacher4pwd",
+        "tec_name": "Supeeti Kulchan",
+        "tec_couser": [
+            {
+                "id": "630240114",
+                "sec": 3
+            },
+            {
+                "id": "630240114",
+                "sec": 4
+            }
+        ]
+    } ,
+    {
+        "tec_id": "teacher5",
+        "tec_pwd": "teacher5pwd",
+        "tec_name": "Peerasak Serikul",
+        "tec_couser": [
+            {
+                "id": "630240115",
+                "sec": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "course_id": "630240111",
+        "course_name": "JavaScript",
+        "course_section": [
+            {
+                "sec": 1,
+                "day": "Monday",
+                "time": {
+                    "start": "09:00:00",
+                    "end": "12:00:00"
+                },
+                "checkTime": []
+            },
+            {
+                "sec": 2,
+                "day": "Monday",
+                "time": {
+                    "start": "13:00:00",
+                    "end": "16:00:00"
+                },
+                "checkTime": []
+            }
+        ]
+    },
+    {
+        "course_id": "630240112",
+        "course_name": "Design Thinking",
+        "course_section": [
+            {
+                "sec": 1,
+                "day": "Tuesday",
+                "time": {
+                    "start": "09:00:00",
+                    "end": "12:00:00"
+                },
+                "checkTime": []
+            },
+            {
+                "sec": 3,
+                "day": "Tuesday",
+                "time": {
+                    "start": "13:00:00",
+                    "end": "16:00:00"
+                },
+                "checkTime": []
+            }
+        ]
+    },
+    {
+        "course_id": "630240113",
+        "course_name": "System Analysis and Design",
+        "course_section": [
+            {
+                "sec": 1,
+                "day": "Wednesday",
+                "time": {
+                    "start": "09:00:00",
+                    "end": "12:00:00"
+                },
+                "checkTime": []
+            }
+        ]
+    },
+    {
+        "course_id": "630240114",
+        "course_name": "SOftware Engineering",
+        "course_section": [
+            {
+                "sec": 3,
+                "day": "Thursday",
+                "time": {
+                    "start": "13:00:00",
+                    "end": "14:00:00"
+                },
+                "checkTime": []
+            },
+            {
+                "sec": 4,
+                "day": "Thursday",
+                "time": {
+                    "start": "8:00:00",
+                    "end": "11:00:00"
+                },
+                "checkTime": []
+            }
+
+        ]
+    },
+    {
+        "course_id": "630240115",
+        "course_name": "Computer Network",
+        "course_section": [
+            {
+                "sec": 1,
+                "day": "Friday",
+                "time": {
+                    "start": "16:00:00",
+                    "end": "20:00:00"
+                },
+                "checkTime": []
+            }
+        ]
+    }
+]
